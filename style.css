@@ -1,0 +1,22 @@
+h1, 
+p {
+  font-family: Lato;
+}
+
+.View {
+  display: flex;
+  flex-direction: column;
+  backround-color: wheat;
+}
+
+.Text {
+  display: flex;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
